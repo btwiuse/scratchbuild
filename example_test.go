@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"log"
 
-	"github.com/philpearl/scratchbuild"
+	"github.com/btwiuse/scratchbuild"
 )
 
 func ExampleClient() {

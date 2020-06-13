@@ -1,5 +1,5 @@
 
-[![GoDoc](https://godoc.org/github.com/philpearl/scratchbuild?status.svg)](https://godoc.org/github.com/philpearl/scratchbuild)
+[![GoDoc](https://godoc.org/github.com/btwiuse/scratchbuild?status.svg)](https://godoc.org/github.com/btwiuse/scratchbuild)
 
 A library and tiny app for directly building very simple docker images & pushing them to a repository without involving the docker daemon, and with no complex dependencies.
 

@@ -7,7 +7,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/philpearl/scratchbuild"
+	"github.com/btwiuse/scratchbuild"
 )
 
 func validate(o *scratchbuild.Options) error {
